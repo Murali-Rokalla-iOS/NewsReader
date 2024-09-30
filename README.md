@@ -67,5 +67,5 @@ A `MockNewsReaderDelegate` class is used to simulate network responses for unit 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NewsReaderApp.git
+   git clone https://github.com/Murali-Rokalla-iOS/NewsReader.git
    cd NewsReaderApp
